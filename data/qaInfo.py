@@ -1,0 +1,8 @@
+nome = "John"
+sobrenome = "Doe"
+email = "john.doe@gmail.com"
+telefone = "11995554444"
+tempoQA = "mais de 5 anos"
+atraiuArea = "Salário"
+interesseLinguagens = "Python, Java, SQL"
+planoDeCarreira = "Uma pergunta que todos têm quando começam a carreira de teste é: Que tipo de futuro na carreira terei? Algumas carreiras levam a uma rua sem saída, onde não há oportunidades de crescimento e nem avanço pessoal e profissional. Em outros casos, existem oportunidades de aprendizado constante, onde o avanço profissional é quase natural."
