@@ -8,8 +8,8 @@
 - PyPi
 
 ### Configurando o Ambiente Local
-#Linux
+#### Linux
 `$ pip install -r requirements/requirements.txt`
 
-#Windows
+##### Windows
 `$ py -m pip install -r requirements\requirements.txt`
